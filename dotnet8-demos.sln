@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrozenBenchmarks", "FrozenB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimaryConstructors", "PrimaryConstructors\PrimaryConstructors.csproj", "{BD64E1F5-B4D9-4EBF-A09B-26A639A89C0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingDirectives", "UsingDirectives\UsingDirectives.csproj", "{52E3CEB9-D789-4896-9ECF-AB6FB167D480}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{BD64E1F5-B4D9-4EBF-A09B-26A639A89C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD64E1F5-B4D9-4EBF-A09B-26A639A89C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD64E1F5-B4D9-4EBF-A09B-26A639A89C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E3CEB9-D789-4896-9ECF-AB6FB167D480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E3CEB9-D789-4896-9ECF-AB6FB167D480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E3CEB9-D789-4896-9ECF-AB6FB167D480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E3CEB9-D789-4896-9ECF-AB6FB167D480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
