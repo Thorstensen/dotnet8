@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrozenBenchmarks", "FrozenBenchmarks\FrozenBenchmarks.csproj", "{0825917E-EC51-4B64-BA35-EB8DD25AEF3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimaryConstructors", "PrimaryConstructors\PrimaryConstructors.csproj", "{BD64E1F5-B4D9-4EBF-A09B-26A639A89C0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{0825917E-EC51-4B64-BA35-EB8DD25AEF3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0825917E-EC51-4B64-BA35-EB8DD25AEF3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0825917E-EC51-4B64-BA35-EB8DD25AEF3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD64E1F5-B4D9-4EBF-A09B-26A639A89C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD64E1F5-B4D9-4EBF-A09B-26A639A89C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD64E1F5-B4D9-4EBF-A09B-26A639A89C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD64E1F5-B4D9-4EBF-A09B-26A639A89C0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
